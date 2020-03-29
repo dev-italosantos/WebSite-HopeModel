@@ -1,0 +1,8 @@
+create database loja default character set utf8 default collate utf8_general_ci;
+use loja;
+create table carrinho (id int auto_increment not null primary key, nome varchar(40) not null, genero enum("M", "F"), tamanho varchar(3), preco decimal (10, 2), quantidadeComprada int, src varchar(50))default charset=utf8;
+create table roupa (id int auto_increment not null primary key, nome varchar(30) not null, genero enum("M", "F"), tamanho varchar(3) not null, preco decimal (10, 2), quantidade int, src varchar(50))default charset=utf8;
+insert into roupa values("", "roupa1", "F", "p", "29.30", "19", "imagens/roupa1.jpg");
+insert into roupa values("", "roupa2", "F", "M", "35.99", "11", "imagens/roupa2.png");
+insert into roupa values("", "roupa3", "M", "G", "78.99", "8", "imagens/roupa3.png");
+insert into roupa values("", "roupa4", "F", "P", "35.50", "30", "imagens/roupa4.jpg");
