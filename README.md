@@ -1,53 +1,30 @@
+<h2>Hey! 👋 Welcome to my profile!</h2>
+<h5 align="center"><a href="https://profile-dev-italo-santos.web.app/#/">Portfolio Italo Santos</a>
+<h4 align="center"><strong>🏃 Enchanted by development technologies!</strong></h4>
+
+- :coffee:  I'm currently learning **Java, Flutter and Java Script**
+- :telescope:  But I'm always open to discovering new things
+- :rocket:  Keep learning continuous and practical
+
+<h2>Languages and Tools:</h2>
 <p align="center">
-  <a href="https://github.com/dev-italosantos">
-    <img src="https://github.com/dev-italosantos/Developer-Portfolio-Project/blob/master/44896269_779110875764514_8419956833149517824_n.jpg" alt="logo Readme" width="20%" height="20%">
-  </a>
-</p>
-
-<h3 align="center">Ítalo dos Santos Souza</h3>
-
- <p align="center">
-    <br>
-    <br>
-    <a href="https://dev-italosantos.github.io/Developer-Portfolio-Project/"><strong>-- Navegue pelo portfólio --</strong></a>
-    <br>
-    <br>
-    <a href="italotayllor@gmail.com">E-mail</a>
-    ·
-    <a href="https://www.instagram.com/italosantossz/">Instagram</a>
-    ·
-    <a href="https://github.com/dev-italosantos/">GitHub</a>
- </p>
- 
-<h2> Objetivo </h2>
-<p align="justify">
- Atuar na área de Tecnologia da Informação especificamente no setor de desenvolvimento Front-end / Back-end, de modo especifico na modelagem de dados, em busca de uma oportunidade para desenvolver e melhorar meus conhecimentos em favor da organização na qual viso integrar. Fazendo parte efetiva do grau de colaboradores, tendo compromisso, respeito com a finalidade de crescimento da organização e profissional.
-</p>
-
-## Idiomas
-- Espanhol (Intermediário)
-- Inglês (Básico)
-
-## Habilidades e Competências
-- Capacidade de análise
-- Inteligência emocional
-- Capacidade de adaptação
-- Habilidades de Comunicação
-- Gerenciamento de tempo
-- Reconhecimento
-- Respeito
-- Transparência
-- Inovação
-
-## Experiência
-#### Aplicativos para desktop | E.E.E.P PROFª  LUIZA DE TEODORO VIEIRA | 2019 - 2020
-- <p align="justify">Sobressair a elaboração da engenharia/modelagem do programa pertinente à interface e a lógica, executada baseada na linguagem Java, SQL e UML. Dentre os programas relevantes desenvolvidos foram: Projeto para converte unidades de medidas; Projeto para controlar o acevo de livros, entre outros. Nesse sentido os processos foram concluídos com a verificação do resultado juntamente com a equipe e o mediado.</p>
-
-#### Desenvolvimento de sites web | E.E.E.P  PROFª  LUIZA DE TEODORO VIEIRA | 2018 - 2020
-- <p align="justify">Destacar-se a experiência em relaciona o conjunto de atividade e à arquitetura do modelo dinâmico necessário para se criar um website, contempla desde a criação de layout (design de interface), programação da interface (codificação html), construção de arquivos de estilo css (estilização de conteúdo) até programação de sistema e programação de interações cliente side (javaScript).</p>
-
-#### Fundador de um startup / Freelancer | DOMICÍLIO | 2018 – 2019
-- <p align="justify">Diante à análise do mercado especialmente no setor de manutenção e design, executei uma pequena empresa denominada WorldTec, onde seu objetivo seria aplica serviços de qualidade e baixo custo. Atendendo a clientes da instituição educacional que me encontrava, ademais o atendimento era feito por plataformas digitais tais como Instagram e WhatsApp. Logo após as ações da empresa foram, segmentada, em dois novos sócios à procura de um modelo de negócios repetível e escalável.</p>  
-
-## Direitos autorais e licença
-<p align="center">© 2020 Todos os direitos reservados | Este modelo é elaborato por Ítalo dos Santos Souza</p> 
+  <br>
+  <a href="https://docs.oracle.com/en/java/"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://kotlinlang.org/docs/home.html"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href=""><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://flutter.dev"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+  
+  <h2>Contact me on:</h2>
+  
+  
+  <a href="https://www.linkedin.com/in/italo-santos-dev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/italosantsz/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discord.gg/italos4ntsz#4897" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
+  <a href="mailto:isantos.worldtec@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=isantos.worldtec@gmail.com)</a>
